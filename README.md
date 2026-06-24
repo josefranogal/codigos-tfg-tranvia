@@ -26,11 +26,13 @@ El análisis y las simulaciones se han desarrollado utilizando el siguiente ecos
 
 Para reproducir el modelo de dispersión atmosférica localmente, instala las dependencias necesarias y ejecuta el script principal:
 
+
+
 ```bash
 pip install numpy scipy matplotlib contextily pyproj
 python codigos-tfg-ampliacion-tranvia-jfng.py
 
-
+```
 ## Autor
 **José Francisco Noguera Galián** 
 *Grado en Física - Universidad de Murcia*
