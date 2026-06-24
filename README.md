@@ -36,5 +36,7 @@ python codigos-tfg-ampliacion-tranvia-jfng.py
 ##  Autor
 **José Francisco Noguera Galián** 
 *Grado en Física - Universidad de Murcia*
+
 Contacto: jf.nogueragalian@um.es
+
 [LinkedIn](www.linkedin.com/in/jose-francisco-noguera-galian-501910311)
