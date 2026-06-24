@@ -33,6 +33,8 @@ pip install numpy scipy matplotlib contextily pyproj
 python codigos-tfg-ampliacion-tranvia-jfng.py
 
 ```
-## Autor
+##  Autor
 **José Francisco Noguera Galián** 
 *Grado en Física - Universidad de Murcia*
+ Contacto: jf.nogueragalian@um.es
+🔗 [LinkedIn](www.linkedin.com/in/jose-francisco-noguera-galian-501910311)
