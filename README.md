@@ -29,3 +29,8 @@ Para reproducir el modelo de dispersión atmosférica localmente, instala las de
 ```bash
 pip install numpy scipy matplotlib contextily pyproj
 python codigos-tfg-ampliacion-tranvia-jfng.py
+
+
+## Autor
+**José Francisco Noguera Galián** 
+*Grado en Física - Universidad de Murcia*
