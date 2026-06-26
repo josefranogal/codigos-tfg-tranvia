@@ -1,4 +1,5 @@
-# codigos-tfg-tranvia
+# tfg-tranvia
+
 # Evaluación Ambiental y Dispersión Atmosférica - Ampliación Tranvía de Murcia
 
 Repositorio con el código en Python desarrollado para la modelización de la dispersión de contaminantes, el cálculo de la neutralidad de carbono y el diagrama de araña correspondientes al Trabajo de Fin de Grado 'Análisis del impacto ambiental de la ampliación del
